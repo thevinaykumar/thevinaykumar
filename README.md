@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020408,30:050d14,60:091520,100:0d1f2e&height=220&section=header&text=VINAY%20KUMAR&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Product%20Manager%20·%20Business%20Analyst%20·%20AI%20%26%20Automation%20Strategist&descSize=15&descAlignY=62&descColor=00f5ff&animation=fadeIn&fontAlign=50)
+<!-- Animated Name Title -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=58&duration=2000&pause=3000&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=VINAY+KUMAR)](https://git.io/typing-svg)
+
+<!-- Animated Role Subtitle -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Product+Manager;Business+Analyst;AI+%26+Automation+Strategist;Creative+Technologist)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +18,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=vinay%40system+~+%25+identify;Building+at+the+intersection+of+AI+%2B+Product+%2B+Operations;Turning+ambiguity+into+architecture%2C+data+into+decisions;Precision.+Product.+Technology.+—+That's+the+brief.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=15&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+at+the+intersection+of+AI+%2B+Product+%2B+Operations;Turning+ambiguity+into+architecture%2C+data+into+decisions;Precision.+Product.+Technology.+—+That's+the+brief.)](https://git.io/typing-svg)
 
 </div>
 
