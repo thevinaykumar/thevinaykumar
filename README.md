@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- VINAY KUMAR — Ultra Professional Animated Title -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=72&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=VINAY+KUMAR)](https://git.io/typing-svg)
+<!-- VINAY KUMAR — Animated gradient background title via capsule-render -->
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,25:1a0533,50:0d1f4e,75:0a3a6e,100:00b4d8&height=130&section=header&text=VINAY%20KUMAR&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=&animation=fadeIn&fontAlignY=55&stroke=00f5ff&strokeWidth=2)
 
 <!-- Glitch-style secondary pulse on the name -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
@@ -45,9 +45,8 @@
 
 <div align="center">
 
-```
-Technology moves.  ◈  Most people watch.  ◈  Some build.  ◈  I ARCHITECT.
-```
+<!-- Animated architect banner — shimmer sweep across dark background -->
+![architect](https://capsule-render.vercel.app/api?type=rect&color=0:020408,30:0a1628,60:0d1f3c,100:020408&height=54&text=Technology%20moves.%20%20%E2%97%88%20%20Most%20people%20watch.%20%20%E2%97%88%20%20Some%20build.%20%20%E2%97%88%20%20I%20ARCHITECT.&fontSize=16&fontColor=00f5ff&fontAlign=50&fontAlignY=55&animation=twinkling&stroke=1a3a5c&strokeWidth=1)
 
 </div>
 
