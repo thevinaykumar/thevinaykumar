@@ -1,15 +1,24 @@
 <div align="center">
 
-<!-- VINAY KUMAR — Ultra Professional Animated Title -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=72&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=VINAY+KUMAR)](https://git.io/typing-svg)
+<!-- ====================================================== -->
+<!-- VINAY KUMAR — ULTRA PREMIUM ANIMATED HEADER -->
+<!-- ====================================================== -->
 
-<!-- Glitch-style secondary pulse on the name -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,30:0f172a,60:00F5FF,100:7C3AED&text=VINAY%20KUMAR&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&desc=PRODUCT%20MANAGER%20•%20AI%20STRATEGIST%20•%20TECHNOLOGIST&descAlignY=63&descSize=18" width="100%"/>
 
-<!-- Static subtitle row — all roles visible at once -->
+<!-- Animated Neon Divider -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=16&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=25&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
+
+<!-- Ultra Bold Animated Name -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=82&duration=2500&pause=100000&color=FFFFFF&center=true&vCenter=true&width=950&height=120&lines=VINAY+KUMAR)](https://git.io/typing-svg)
+
+<!-- Background Glow Animation Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=30&lines=⚡+PRECISION+•+PRODUCT+•+TECHNOLOGY+⚡" />
+
+<!-- Static subtitle row -->
 **`PRODUCT MANAGER`** &nbsp;·&nbsp; **`BUSINESS ANALYST`** &nbsp;·&nbsp; **`AI & AUTOMATION STRATEGIST`** &nbsp;·&nbsp; **`CREATIVE TECHNOLOGIST`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=25&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +32,7 @@
 
 <div align="center">
 
-<!-- Hacker / cheat-code style red terminal typing animation -->
+<!-- Hacker / terminal style animated intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=2200&pause=600&color=FF0000&center=true&vCenter=true&multiline=false&width=760&height=40&lines=%5BSYS%5D+Initialising+neural+stack...;%5BSYS%5D+Loading+AI+%2B+Product+%2B+Operations+modules...;%5BSYS%5D+Turning+ambiguity+into+architecture...;%5BSYS%5D+Converting+raw+data+into+decisions...;%5BSYS%5D+EXEC%3A+Precision.+Product.+Technology.+--+READY.)](https://git.io/typing-svg)
 
 </div>
@@ -43,11 +52,13 @@
 
 ---
 
+<!-- ====================================================== -->
+<!-- ULTRA HIGHLIGHTED ARCHITECT LINE -->
+<!-- ====================================================== -->
+
 <div align="center">
 
-```
-Technology moves.  ◈  Most people watch.  ◈  Some build.  ◈  I ARCHITECT.
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:FF006E&height=120&section=header&text=Technology%20moves.%20◈%20Most%20people%20watch.%20◈%20Some%20build.%20◈%20I%20ARCHITECT.&fontSize=28&fontColor=FFFFFF&animation=blinking&fontAlignY=55" width="100%"/>
 
 </div>
 
@@ -152,6 +163,17 @@ Automated cryptocurrency market monitoring, anomaly detection, and operational r
 > **Scope:** Frontend Architecture · Deployment Operations · Responsive UI
 
 Designed and deployed a premium multi-page business website with responsive frontend architecture, structured deployment workflows, cross-browser debugging coordination, and continuous operational optimization. End-to-end ownership — from wireframe to live deployment.
+
+<br/>
+
+### `04` &nbsp; Sign Detector AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+> **Scope:** Computer Vision · Gesture Recognition · AI Inference
+
+Developed an AI-powered sign language recognition system capable of detecting and interpreting hand gestures in real time using machine learning and computer vision — bridging accessibility gaps through intelligent automation.
 
 <br/>
 
