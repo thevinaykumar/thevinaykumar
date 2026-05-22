@@ -1,10 +1,15 @@
 <div align="center">
 
-<!-- Animated Name Title -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=58&duration=2000&pause=3000&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=VINAY+KUMAR)](https://git.io/typing-svg)
+<!-- VINAY KUMAR — Ultra Professional Animated Title -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=72&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=VINAY+KUMAR)](https://git.io/typing-svg)
 
-<!-- Animated Role Subtitle -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Product+Manager;Business+Analyst;AI+%26+Automation+Strategist;Creative+Technologist)](https://git.io/typing-svg)
+<!-- Glitch-style secondary pulse on the name -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
+
+<!-- Static subtitle row — all roles visible at once -->
+**`PRODUCT MANAGER`** &nbsp;·&nbsp; **`BUSINESS ANALYST`** &nbsp;·&nbsp; **`AI & AUTOMATION STRATEGIST`** &nbsp;·&nbsp; **`CREATIVE TECHNOLOGIST`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +23,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=15&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+at+the+intersection+of+AI+%2B+Product+%2B+Operations;Turning+ambiguity+into+architecture%2C+data+into+decisions;Precision.+Product.+Technology.+—+That's+the+brief.)](https://git.io/typing-svg)
+<!-- Hacker / cheat-code style red terminal typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=2200&pause=600&color=FF0000&center=true&vCenter=true&multiline=false&width=760&height=40&lines=%5BSYS%5D+Initialising+neural+stack...;%5BSYS%5D+Loading+AI+%2B+Product+%2B+Operations+modules...;%5BSYS%5D+Turning+ambiguity+into+architecture...;%5BSYS%5D+Converting+raw+data+into+decisions...;%5BSYS%5D+EXEC%3A+Precision.+Product.+Technology.+--+READY.)](https://git.io/typing-svg)
 
 </div>
 
