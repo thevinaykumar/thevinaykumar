@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- VINAY KUMAR — Ultra Professional Animated Title -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=72&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=VINAY+KUMAR)](https://git.io/typing-svg)
+<!-- VINAY KUMAR — Bold name on same twinkling ribbon as architect banner -->
+![name](https://capsule-render.vercel.app/api?type=rect&color=0:020408,30:0a1628,60:0d1f3c,100:020408&height=130&text=VINAY%20KUMAR&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=twinkling&stroke=00f5ff&strokeWidth=2)
 
 <!-- Glitch-style secondary pulse on the name -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
