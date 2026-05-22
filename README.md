@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- VINAY KUMAR — Bold font, dark red animated background via typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=80&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=130&lines=VINAY+KUMAR&background=0d0a0a)](https://git.io/typing-svg)
+<!-- VINAY KUMAR — Ultra Professional Animated Title -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=72&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=VINAY+KUMAR)](https://git.io/typing-svg)
 
-<!-- Animated divider line -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&height=24&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰)](https://git.io/typing-svg)
+<!-- Glitch-style secondary pulse on the name -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
 
 <!-- Static subtitle row — all roles visible at once -->
 **`PRODUCT MANAGER`** &nbsp;·&nbsp; **`BUSINESS ANALYST`** &nbsp;·&nbsp; **`AI & AUTOMATION STRATEGIST`** &nbsp;·&nbsp; **`CREATIVE TECHNOLOGIST`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=800&height=24&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,8 +45,8 @@
 
 <div align="center">
 
-<!-- Technology moves line — different font, no blink, static display via long pause -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=1&pause=99999&color=00F5FF&center=true&vCenter=true&width=860&height=50&lines=Technology+moves.+%E2%97%88+Most+people+watch.+%E2%97%88+Some+build.+%E2%97%88+I+ARCHITECT.&background=0d1f3c)](https://git.io/typing-svg)
+<!-- Animated architect banner — same twinkling dark background, clean readable font -->
+![architect](https://capsule-render.vercel.app/api?type=rect&color=0:020408,30:0a1628,60:0d1f3c,100:020408&height=54&text=Technology%20moves.%20%20%E2%97%88%20%20Most%20people%20watch.%20%20%E2%97%88%20%20Some%20build.%20%20%E2%97%88%20%20I%20ARCHITECT.&fontSize=16&fontColor=00f5ff&fontAlign=50&fontAlignY=55&animation=twinkling&stroke=1a3a5c&strokeWidth=1)
 
 </div>
 
