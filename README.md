@@ -1,5 +1,3 @@
-<!-- KEEP THIS ENTIRE TOP SECTION EXACTLY SAME -->
-
 <div align="center">
 
 <!-- VINAY KUMAR — Ultra Professional Animated Title -->
@@ -45,11 +43,11 @@
 
 ---
 
-<!-- ONLY THIS SECTION UPDATED -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:FF006E&height=110&section=header&text=Technology%20moves.%20◈%20Most%20people%20watch.%20◈%20Some%20build.%20◈%20I%20ARCHITECT.&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55"/>
+```
+Technology moves.  ◈  Most people watch.  ◈  Some build.  ◈  I ARCHITECT.
+```
 
 </div>
 
@@ -154,17 +152,6 @@ Automated cryptocurrency market monitoring, anomaly detection, and operational r
 > **Scope:** Frontend Architecture · Deployment Operations · Responsive UI
 
 Designed and deployed a premium multi-page business website with responsive frontend architecture, structured deployment workflows, cross-browser debugging coordination, and continuous operational optimization. End-to-end ownership — from wireframe to live deployment.
-
-<br/>
-
-### `04` &nbsp; Sign Detector AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-> **Scope:** Computer Vision · Gesture Recognition · AI Inference
-
-Developed an AI-powered sign language recognition system capable of detecting and interpreting hand gestures in real time using machine learning and computer vision — bridging accessibility gaps through intelligent automation.
 
 <br/>
 
