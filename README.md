@@ -33,7 +33,7 @@ body{
   line-height:1.7;
   overflow-x:hidden;
 }
-
+ 
 /* === GRID BACKGROUND === */
 body::before{
   content:'';
@@ -57,7 +57,7 @@ body::after{
   pointer-events:none;
   z-index:0;
 }
-
+ 
 /* === SCANLINES === */
 .scanlines{
   position:fixed;
@@ -68,9 +68,9 @@ body::after{
   animation:scanMove 8s linear infinite;
 }
 @keyframes scanMove{from{transform:translateY(0)}to{transform:translateY(4px)}}
-
+ 
 .wrapper{position:relative;z-index:2;max-width:960px;margin:0 auto;padding:0 32px;}
-
+ 
 /* ===========================
    HERO HEADER
 =========================== */
@@ -87,7 +87,7 @@ body::after{
   pointer-events:none;
 }
 .hero-circuit svg{width:100%;height:100%;}
-
+ 
 .hero-status{
   display:inline-flex;align-items:center;gap:8px;
   font-family:var(--mono);font-size:11px;
@@ -102,7 +102,7 @@ body::after{
 @keyframes statusBlink{0%,100%{opacity:1}50%{opacity:0.6}}
 .status-dot{width:6px;height:6px;border-radius:50%;background:var(--neon-green);animation:dotPulse 2s ease-in-out infinite;box-shadow:0 0 8px var(--neon-green);}
 @keyframes dotPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.6);opacity:0.5}}
-
+ 
 .hero-name{
   font-family:var(--display);
   font-size:clamp(42px,8vw,88px);
@@ -126,7 +126,7 @@ body::after{
   display:inline-block;
   animation:letterDrop 0.8s cubic-bezier(0.16,1,0.3,1) both;
 }
-
+ 
 .hero-title{
   font-family:var(--mono);
   font-size:clamp(11px,1.8vw,14px);
@@ -138,7 +138,7 @@ body::after{
   animation:fadeUp 0.8s 0.8s ease both;
 }
 .hero-title span{opacity:0.5;margin:0 10px;}
-
+ 
 /* TYPING STRIP — SUPERCAR STYLE */
 .typing-strip{
   position:relative;
@@ -182,13 +182,13 @@ body::after{
 .t-line:nth-child(1){color:var(--neon-cyan);animation:type1 1.8s 1s steps(48,end) both,cursorFade1 0.6s 2.8s ease both;}
 .t-line:nth-child(2){color:var(--acid-lime);animation:type2 2s 3.2s steps(52,end) both,cursorFade2 0.6s 5.2s ease both;}
 .t-line:nth-child(3){color:var(--neon-amber);animation:type3 1.6s 5.6s steps(44,end) both;}
-
+ 
 @keyframes type1{from{width:0}to{width:100%}}
 @keyframes type2{from{width:0}to{width:100%}}
 @keyframes type3{from{width:0}to{width:100%}}
 @keyframes cursorFade1{to{border-color:transparent}}
 @keyframes cursorFade2{to{border-color:transparent}}
-
+ 
 /* SPEED LINES DECORATORS */
 .speed-left,.speed-right{
   position:absolute;
@@ -207,7 +207,7 @@ body::after{
 .speed-line:nth-child(2){width:25px;animation-delay:0.2s;}
 .speed-line:nth-child(3){width:35px;animation-delay:0.4s;}
 @keyframes speedBlur{0%,100%{opacity:0.3;transform:scaleX(0.6)}50%{opacity:1;transform:scaleX(1)}}
-
+ 
 /* SOCIAL BADGES */
 .social-row{
   display:flex;justify-content:center;flex-wrap:wrap;gap:12px;
@@ -230,7 +230,7 @@ body::after{
 .badge-github{color:#a5d6a7;border-color:rgba(165,214,167,0.3);background:rgba(165,214,167,0.05);}
 .badge-location{color:#ce93d8;border-color:rgba(206,147,216,0.3);background:rgba(206,147,216,0.05);}
 .badge:hover{transform:translateY(-2px);box-shadow:0 4px 20px rgba(0,0,0,0.4);}
-
+ 
 /* ===========================
    ARCHITECT LINE — HERO
 =========================== */
@@ -270,7 +270,7 @@ body::after{
   animation:bottomGlow 2s ease-in-out infinite;
 }
 @keyframes bottomGlow{0%,100%{opacity:0.4}50%{opacity:1}}
-
+ 
 .arch-corner{
   position:absolute;
   width:16px;height:16px;
@@ -281,7 +281,7 @@ body::after{
 .arch-corner.tr{top:-1px;right:-1px;border-width:2px 2px 0 0;}
 .arch-corner.bl{bottom:-1px;left:-1px;border-width:0 0 2px 2px;}
 .arch-corner.br{bottom:-1px;right:-1px;border-width:0 2px 2px 0;}
-
+ 
 .arch-text{
   position:relative;z-index:2;
   font-family:var(--display);
@@ -303,9 +303,9 @@ body::after{
 .arch-word.dim:nth-child(3){animation-delay:1s;}
 .arch-word.dim:nth-child(4){animation-delay:1.5s;}
 @keyframes dimFloat{0%,100%{opacity:0.5;transform:translateY(0)}50%{opacity:0.8;transform:translateY(-2px)}}
-
+ 
 .arch-sep{color:rgba(0,245,255,0.25);margin:0 12px;font-size:14px;}
-
+ 
 .arch-word.ARCHITECT{
   color:var(--neon-cyan);
   font-size:clamp(22px,4vw,42px);
@@ -351,7 +351,7 @@ body::after{
 }
 @keyframes glitchR{0%,88%,100%{opacity:0;transform:translateX(-3px)}89%,91%{opacity:0.8;transform:translateX(-6px)}90%{opacity:0;}}
 @keyframes glitchG{0%,88%,100%{opacity:0;transform:translateX(3px)}89.5%,91.5%{opacity:0.8;transform:translateX(6px)}90.5%{opacity:0;}}
-
+ 
 .arch-particles{
   position:absolute;inset:0;overflow:hidden;pointer-events:none;
 }
@@ -370,7 +370,7 @@ body::after{
   90%{opacity:0.3;}
   100%{opacity:0;transform:translateY(-80px) translateX(var(--drift,20px));}
 }
-
+ 
 /* === DIVIDER === */
 .divider{
   display:flex;align-items:center;gap:16px;
@@ -379,7 +379,7 @@ body::after{
 }
 .divider::before,.divider::after{content:'';flex:1;height:1px;background:linear-gradient(90deg,transparent,var(--neon-cyan),transparent);}
 .divider span{font-family:var(--mono);font-size:10px;letter-spacing:0.3em;color:var(--neon-cyan);}
-
+ 
 /* ===========================
    SECTION HEADERS
 =========================== */
@@ -401,7 +401,7 @@ body::after{
   font-family:var(--mono);font-size:10px;
   color:rgba(0,245,255,0.3);
 }
-
+ 
 /* ===========================
    OPERATING SYSTEM GRID
 =========================== */
@@ -445,7 +445,7 @@ body::after{
   color:rgba(160,180,200,0.7);
   line-height:1.6;
 }
-
+ 
 /* ===========================
    PROJECTS
 =========================== */
@@ -510,7 +510,7 @@ body::after{
 .tag-rpa{color:#ce93d8;border-color:rgba(206,147,216,0.25);}
 .tag-web{color:#80cbc4;border-color:rgba(128,203,196,0.25);}
 .tag-cv{color:#ef9a9a;border-color:rgba(239,154,154,0.25);}
-
+ 
 /* ===========================
    SKILLS
 =========================== */
@@ -554,7 +554,7 @@ body::after{
 .lv-adv{color:var(--acid-lime);}
 .lv-pro{color:var(--neon-amber);}
 .lv-int{color:rgba(160,100,200,0.8);}
-
+ 
 /* ===========================
    CERTIFICATIONS — UNIFIED LIST
 =========================== */
@@ -587,7 +587,7 @@ body::after{
   letter-spacing:0.12em;
   margin-top:4px;
 }
-
+ 
 .cert-table{
   width:100%;
   border-collapse:collapse;
@@ -638,7 +638,7 @@ body::after{
 .dp-auto{color:var(--neon-amber);border-color:rgba(255,179,0,0.25);}
 .dp-data{color:#ef9a9a;border-color:rgba(239,154,154,0.25);}
 .dp-net{color:#ce93d8;border-color:rgba(206,147,216,0.25);}
-
+ 
 /* ===========================
    CONNECT
 =========================== */
@@ -684,7 +684,7 @@ body::after{
 .cc-li{color:#4fc3f7;}
 .cc-em{color:#ef9a9a;}
 .cc-gh{color:#a5d6a7;}
-
+ 
 /* ===========================
    IDENTITY
 =========================== */
@@ -722,7 +722,7 @@ body::after{
   margin-top:20px;
   opacity:0.8;
 }
-
+ 
 /* === FOOTER === */
 .footer{
   padding:48px 0 60px;
@@ -740,10 +740,10 @@ body::after{
   color:rgba(0,245,255,0.3);
   margin-top:8px;
 }
-
+ 
 /* === ANIMATIONS === */
 @keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
-
+ 
 .reveal{
   opacity:0;
   transform:translateY(20px);
@@ -754,9 +754,9 @@ body::after{
 </head>
 <body>
 <div class="scanlines"></div>
-
+ 
 <div class="wrapper">
-
+ 
 <!-- ======================== HERO ======================== -->
 <section class="hero">
   <div class="hero-circuit" aria-hidden="true">
@@ -786,18 +786,18 @@ body::after{
       </g>
     </svg>
   </div>
-
+ 
   <div class="hero-status">
     <span class="status-dot"></span>
     SYSTEM ONLINE — VINAY KUMAR — v2025.1
   </div>
-
+ 
   <h1 class="hero-name" id="heroName">VINAY KUMAR</h1>
-
+ 
   <p class="hero-title">
     Product Manager <span>·</span> Business Analyst <span>·</span> AI &amp; Automation Strategist
   </p>
-
+ 
   <!-- SUPERCAR TYPING STRIP -->
   <div class="typing-strip" style="position:relative;">
     <div class="speed-left" aria-hidden="true">
@@ -816,7 +816,7 @@ body::after{
       <div class="t-line">Precision. Product. Technology. — This is the entire brief.</div>
     </div>
   </div>
-
+ 
   <div class="social-row">
     <a href="https://linkedin.com/in/thevinaykumar57" class="badge badge-linkedin" target="_blank">⬡ LinkedIn</a>
     <a href="mailto:thevinaykumar57@gmail.com" class="badge badge-email" target="_blank">⬡ Email</a>
@@ -824,9 +824,9 @@ body::after{
     <span class="badge badge-location">⬡ Hyderabad, India</span>
   </div>
 </section>
-
+ 
 <div class="divider"><span>◈</span></div>
-
+ 
 <!-- ======================== ARCHITECT LINE ======================== -->
 <section class="architect-block reveal">
   <div class="arch-line-wrap">
@@ -847,9 +847,9 @@ body::after{
     </div>
   </div>
 </section>
-
+ 
 <div class="divider"><span>◈</span></div>
-
+ 
 <!-- ======================== IDENTITY ======================== -->
 <section class="section reveal">
   <div class="section-head">
@@ -868,9 +868,9 @@ body::after{
     </p>
   </div>
 </section>
-
+ 
 <div class="divider"><span>◈</span></div>
-
+ 
 <!-- ======================== OPERATING SYSTEM ======================== -->
 <section class="section reveal">
   <div class="section-head">
@@ -887,9 +887,9 @@ body::after{
     <div class="os-cell"><div class="os-num">06 —</div><div class="os-title">EXECUTION</div><p class="os-desc">Agile delivery, project coordination, stakeholder communication, and measurable output — from concept to shipped product.</p></div>
   </div>
 </section>
-
+ 
 <div class="divider"><span>◈</span></div>
-
+ 
 <!-- ======================== PROJECTS ======================== -->
 <section class="section reveal">
   <div class="section-head">
@@ -911,9 +911,9 @@ body::after{
     <div class="project-row"><div class="proj-num">11</div><div class="proj-body"><div class="proj-title">Additional Systems</div><div class="proj-scope">Systems Engineering · Web Frontend · Health Analytics</div><p class="proj-desc">Restaurant Menu & Billing System · Priority Scheduling Algorithm · Health Monitoring System · Kawasaki Frontend Demo · Portfolio Website — foundational engineering across C programming, web frontend, and health analytics.</p><div class="proj-tags"><span class="tag tag-web">C</span><span class="tag tag-web">HTML</span><span class="tag tag-py">Python</span></div></div></div>
   </div>
 </section>
-
+ 
 <div class="divider"><span>◈</span></div>
-
+ 
 <!-- ======================== SKILLS ======================== -->
 <section class="section reveal">
   <div class="section-head">
@@ -962,9 +962,9 @@ body::after{
     </div>
   </div>
 </section>
-
+ 
 <div class="divider"><span>◈</span></div>
-
+ 
 <!-- ======================== CERTIFICATIONS ======================== -->
 <section class="section reveal">
   <div class="section-head">
@@ -972,7 +972,7 @@ body::after{
     <div class="line"></div>
     <span class="num">05</span>
   </div>
-
+ 
   <div class="cert-count-banner">
     <div class="cert-big-num">22</div>
     <div>
@@ -980,7 +980,7 @@ body::after{
       <div class="cert-count-sub">Across Product · AI · Automation · Data · Networks · Systems</div>
     </div>
   </div>
-
+ 
   <table class="cert-table">
     <tbody>
       <tr><td class="cert-idx">01</td><td class="cert-name">Project Management Specialization</td><td class="cert-domain"><span class="domain-pill dp-pm">PM</span></td><td class="cert-issuer">Univ. of Colorado Boulder</td></tr>
@@ -1008,9 +1008,9 @@ body::after{
     </tbody>
   </table>
 </section>
-
+ 
 <div class="divider"><span>◈</span></div>
-
+ 
 <!-- ======================== CONNECT ======================== -->
 <section class="section reveal">
   <div class="section-head">
@@ -1036,15 +1036,15 @@ body::after{
     </a>
   </div>
 </section>
-
+ 
 <!-- ======================== FOOTER ======================== -->
 <footer class="footer">
   <div class="footer-line">// END OF FILE — VINAY_KUMAR.PROFILE — 2025</div>
   <div class="footer-name">PRECISION · PRODUCT · TECHNOLOGY</div>
 </footer>
-
+ 
 </div><!-- /wrapper -->
-
+ 
 <script>
 // Staggered letter animation for name
 const nameEl = document.getElementById('heroName');
@@ -1053,7 +1053,7 @@ nameEl.innerHTML = name.split('').map((ch,i) =>
   ch === ' ' ? ' ' :
   `<span class="letter" style="animation-delay:${i*0.04}s">${ch}</span>`
 ).join('');
-
+ 
 // Architect block particles
 const container = document.getElementById('archParticles');
 if(container){
@@ -1070,7 +1070,7 @@ if(container){
     container.appendChild(p);
   }
 }
-
+ 
 // Intersection observer for reveal
 const obs = new IntersectionObserver((entries) => {
   entries.forEach(e => {
