@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- VINAY KUMAR — Bold text on animated twinkling dark background -->
-![name](https://capsule-render.vercel.app/api?type=rect&color=0:020408,30:0a1628,60:0d1f3c,100:020408&height=130&text=VINAY%20KUMAR&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=twinkling&stroke=00f5ff&strokeWidth=2)
+<!-- VINAY KUMAR — Bebas Neue bold font, red hacker theme, twinkling dark background -->
+![name](https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,30:1a0000,60:2a0000,100:0a0000&height=130&text=VINAY%20KUMAR&fontSize=78&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=twinkling&stroke=ff0000&strokeWidth=2&fontAlignY=55&descSize=0)
 
-<!-- Glitch-style secondary pulse on the name -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
+<!-- Blink divider — red -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=800&pause=800&color=FF0000&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
 
-<!-- Static subtitle row — all roles visible at once -->
-**`PRODUCT MANAGER`** &nbsp;·&nbsp; **`BUSINESS ANALYST`** &nbsp;·&nbsp; **`AI & AUTOMATION STRATEGIST`** &nbsp;·&nbsp; **`CREATIVE TECHNOLOGIST`**
+<!-- Roles row — blink animation (same line repeating = fade in/out, no horizontal travel) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=1200&pause=1200&color=FF0000&center=true&vCenter=true&width=860&height=30&lines=PRODUCT+MANAGER+%C2%B7+BUSINESS+ANALYST+%C2%B7+AI+%26+AUTOMATION+STRATEGIST+%C2%B7+CREATIVE+TECHNOLOGIST)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=4000&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
+<!-- Blink divider — red -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=800&pause=800&color=FF0000&center=true&vCenter=true&width=800&height=24&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━)](https://git.io/typing-svg)
 
 </div>
 
